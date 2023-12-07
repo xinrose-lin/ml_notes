@@ -2,6 +2,6 @@
 concepts and implementations
 
 ### roadmap
-- dec 23: autoencoders and variational autoecoders 
-    - concept: variational inference
+- [in progress] dec 23: autoencoders and variational autoecoders 
+    - [concept: variational inference]('concepts/vi.md')
 - 
