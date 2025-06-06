@@ -5,4 +5,4 @@ concepts and implementations
 - autoencoders and variational autoecoders 
     - [concept: variational inference](concepts/vi.md)
    
-- 
+- []
